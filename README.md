@@ -1,4 +1,4 @@
-Just now
+
 ###👉 Day 3 Challenge
 The Ultimate Wacky Recipe Maker
 
