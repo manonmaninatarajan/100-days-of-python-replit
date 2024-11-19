@@ -1,5 +1,4 @@
-
-###👉 Day 3 Challenge
+👉 Day 3 Challenge
 The Ultimate Wacky Recipe Maker
 
 We have learned enough skills for a simple, but cool, project!
