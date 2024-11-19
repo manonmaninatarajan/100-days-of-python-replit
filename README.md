@@ -1,50 +1,52 @@
-### First, delete any other code in your main.py file. Copy each code snippet below into main.py by clicking the copy icon in the top right of each code box. Then, hit run and see what errors occur. Fix the errors and press run again until you are error free. Click on the 👀 Answer to compare your code to the correct code.
-
-### Please note: This is a silly example. You'd never write your own Phishing code, but it's really important to know what to look for. If someone's asking you for this kind of information online - think twice!
-
-print("Definitely not a Phishing Scam")
+👉 Day 2 Challenge
 
 
-print()
+Getting to Know You Project
 
 
-input("Your Name")
+You can continue to use this same repl for your project. Just make sure you delete any previous code from our practice session.
 
 
-print("Thanks for logging in")
+Write code that does the following:
 
 
-print(myName)
+Asks for the user's name, favorite food, favorite music and where they live (or you can create other questions!)
 
 
-cardNumber = input("What is your credit card number?")
+Store all of the answers in different variables.
 
 
-print("Thanks, I definitely wont put")
+Print out a full sentence that includes the user's favorite things.
 
 
-print("cardNumber")
+Give them a positive affirmation at the end - tell them they rock at doing something!
 
 
-print("into Amazon and order anything weird")
+Example (go to the end for the solution...but no peeking):
 
 
-print()
+Getting to know you!
 
 
-print("Promise")
+You are
 
 
-maidenName input("What is your Mother's maiden name? ")
+Mark
 
 
-print()
+You're probably hungry for
 
 
-print("That's cool, I just wanted to know that")
+Burritos
 
 
-print(maidenName)
+and you're definitely getting your groove on to
 
 
-print("was your Mum's maiden name. Not because the bank requested it or anything, honest.")
+Synthwave and Anything by our man Rick Astley
+
+
+living in the amazing
+
+
+Edge of reality
